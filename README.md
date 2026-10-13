@@ -21,4 +21,5 @@ Made for DSE 502 at the University of Maine, spring 2026.
    ```
 
 <small>*Google Gemini used for spell checking and minor debugging in main code.*<small>
+<br>
 <small>*Google Gemini used for spell checking, formatting, and suggestions in README.md*<small>
