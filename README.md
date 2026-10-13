@@ -20,5 +20,5 @@ Made for DSE 502 at the University of Maine, spring 2026.
    python "Flight Seat Checker.py"
    ```
 
-# Google Gemini used for spell checking and minor debugging in main code.
-# Google Gemini used for spell checking, formatting, and suggestions in README.md
+<small>*Google Gemini used for spell checking and minor debugging in main code.*<small>
+<small>*Google Gemini used for spell checking, formatting, and suggestions in README.md*<small>
